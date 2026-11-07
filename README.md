@@ -12,7 +12,7 @@
 
 | 🚀 AI Engineer Profile & Mission | ⚡ Hologram Workspace |
 | :--- | :---: |
-| 🎓 **Academic Excellence:** B.Sc. in E-Commerce (Information Systems Faculty) @ **[UIT - VNU-HCM](https://www.uit.edu.vn/)** — **GPA: `8.48 / 10.0`**<br><br>🚀 **AI Residency & Scholarship:** **Level 3 Scholar** at **Practical AI Talent Program (Cohort V)** by **Vingroup & [VinUniversity](https://vinuni.edu.vn/)** <br><br>🧠 **AI & LLM Engineering:** Multi-Provider LLM API Orchestration (`OpenAI`, `Google Gemini`, `Anthropic Claude`), Autonomous **ReAct Agents**, Custom **Tool-Calling Engines**, & **RAG Pipelines**<br><br>💻 **Full-Stack Foundation:** Designing end-to-end web products with `Python`, `ReactJS`, `Tailwind CSS`, `PHP PDO`, `MySQL`, `PostgreSQL`, and `Docker`<br><br>⚡ **Engineering Mantra:** *"Turning cutting-edge LLM & Agentic research into low-latency, scalable, user-centric software products."* | ![Pro Coder Hologram UI](https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif) |
+| 🎓 **Academic Excellence:** B.Sc. in E-Commerce (Information Systems Faculty) @ **[UIT - VNU-HCM](https://www.uit.edu.vn/)** — **GPA: `8.48 / 10.0`**<br><br>🚀 **AI Residency:** **Level 3 Scholar** at **Practical AI Talent Program (Cohort V)** by **Vingroup & [VinUniversity](https://vinuni.edu.vn/)** <br><br>🧠 **AI & LLM Engineering:** Multi-Provider LLM API Orchestration (`OpenAI`, `Google Gemini`, `Anthropic Claude`), Autonomous **ReAct Agents**, Custom **Tool-Calling Engines**, & **RAG Pipelines**<br><br>💻 **Full-Stack Foundation:** Designing end-to-end web products with `Python`, `ReactJS`, `Tailwind CSS`, `PHP PDO`, `MySQL`, `PostgreSQL`, and `Docker`<br><br>⚡ **Engineering Mantra:** *"Turning cutting-edge LLM & Agentic research into low-latency, scalable, user-centric software products."* | ![Pro Coder Hologram UI](https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif) |
 
 ```yaml
 # 🧠 AI_ENGINEER_MANIFEST.yaml — Runtime Configuration
@@ -79,7 +79,7 @@ neural_stack:
 
 | 🏅 Key Recognition & Academic Achievements | 🧠 Neural Network Core |
 | :--- | :---: |
-| 🚀 **Level 3 Scholar — Practical AI Talent Program (Cohort V)** by Vingroup & **[VinUniversity](https://vinuni.edu.vn/)** *(Full Scholarship, Monthly Stipend & Enterprise AI Residency)*<br><br>🎓 **GPA 8.48 / 10.0** — Bachelor of E-Commerce (Information Systems Faculty), **[University of Information Technology (UIT - VNU-HCM)](https://www.uit.edu.vn/)**<br><br>🏅 **Third-Place Provincial Award in Chemistry** — Strong analytical & algorithmic problem-solving foundation | ![AI MindSphere Neural Network](https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif) |
+| 🚀 **Level 3 Scholar — Practical AI Talent Program (Cohort V)** by Vingroup & **[VinUniversity](https://vinuni.edu.vn/)** <br><br>🎓 **GPA 8.48 / 10.0** — Bachelor of E-Commerce (Information Systems Faculty), **[University of Information Technology (UIT - VNU-HCM)](https://www.uit.edu.vn/)**<br><br>🏅 **Third-Place Provincial Award in Chemistry** — Strong analytical & algorithmic problem-solving foundation | ![AI MindSphere Neural Network](https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif) |
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
