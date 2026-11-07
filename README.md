@@ -1,4 +1,4 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=venom&height=260&color=0:09090b,45:1e1b4b,85:0284c7,100:00f5d4&text=NGUY%E1%BB%84N%20%C4%90%E1%BB%A8C%20NH%E1%BA%ACT&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%F0%9F%A4%96%20AI%20Engineer%20Trainee%20%7C%20%F0%9F%A7%A0%20LLM%20%26%20Agentic%20Systems%20%7C%20%F0%9F%92%BB%20Full-Stack%20Developer&descAlignY=62&descSize=18&stroke=00f5d4&strokeWidth=1)
+![Header Banner](https://capsule-render.vercel.app/api?type=venom&height=260&color=0:09090b,45:1e1b4b,85:0284c7,100:00f5d4&text=NGUYEN%20DUC%20NHAT&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20Trainee%20%7C%20LLM%20and%20Agentic%20Systems%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=18&stroke=00f5d4&strokeWidth=1)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=00F5D4&vCenter=true&width=860&height=55&lines=%3E+Initializing+Neural+Agent+%40NguyenDucNhat3006...+%5BSTATUS%3A+ONLINE%5D;Practical+AI+Talent+Scholar+%40+VinUniversity+%26+Vingroup+(Cohort+V+-+Level+3);Architecting+Multi-Provider+LLM+Streams%2C+ReAct+Agents+%26+RAG+Pipelines;Full-Stack+Engineer+Bridging+Scalable+Web+Systems+with+Applied+AI)](https://github.com/NguyenDucNhat3006)
 
@@ -64,7 +64,6 @@ neural_stack:
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NguyenDucNhat3006&theme=2077&animation=draw) ![Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NguyenDucNhat3006&theme=2077&animation=draw) ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenDucNhat3006&theme=2077&utcOffset=7&animation=rise)
 
-![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NguyenDucNhat3006&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=38BDF8&point=FFFFFF&area=true&radius=8)
 
 ![Gradient Pulse Divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
