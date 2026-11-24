@@ -67,14 +67,6 @@ neural_stack:
 
 ![Gradient Pulse Divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-## 🐍 Autonomous Contribution Snake & 3D Isometric Grid
-
-![Contribution Snake Dark Mode](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-![3D Isometric Contribution Calendar](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
-
-![Fading Cyber Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
 ## 🏆 Honours & Engineering Milestones
 
 | 🏅 Key Recognition & Academic Achievements | 🧠 Neural Network Core |
